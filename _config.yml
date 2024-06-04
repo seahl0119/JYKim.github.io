@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Jin-Young Kim
-# title: Dr
+title: 김진영
 email: jeremy@twelvelabs.io
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
@@ -30,7 +30,7 @@ linkedin_username: jin-young-kim-4326a2233
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
-orcid_username: 0000-0001-9691-877X
+# orcid_username: 0000-0001-9691-877X
 googlescholar_username: 7VupJX4AAAAJ
 
 # # Additional icon links
@@ -110,7 +110,7 @@ content:
   - title: ACADEMIC EXPERIENCE 
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Introduction to Artificial Intelligence: Methods, Models, Algorithms, Int. Summer University 2018,  Higher School of Economics, 2018. 
+      <strong> Introduction to Artificial Intelligence:</strong> Methods, Models, Algorithms, Int. Summer University 2018,  Higher School of Economics, 2018. 
 
 
 
@@ -177,8 +177,8 @@ content:
   - title: SUMMARY OF RESEARCH CONTRIBUTIONS
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - International Journal Paper 11; included SCI(E) 11.   <br>
-      - International Conference Paper 14 
+      - International Journal Paper <strong> 11</strong>  included SCI(E) <strong> 11.</strong>   <br>
+      - International Conference Paper <strong>  14 </strong>
 
 
   - title: PROJECTS
@@ -223,7 +223,7 @@ content:
   - title: CITATIONS
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Just Google scholar pulls out a list of 784 citations. <strong> (h-index: 12) </strong>
+      - Just Google scholar pulls out a list of 784 citations. <strong> (h-index: 12) </strong>
 
 
   - title: PROFESSIONAL RECOGNITION 
