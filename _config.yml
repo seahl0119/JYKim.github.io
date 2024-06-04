@@ -111,14 +111,14 @@ content:
         caption: 2014.03 - 2018.02 (GPA &#58; 3.59 / 4.30) 
 
         
-  - title: ACADEMIC EXPERIENCE 
+  - title: Academic Experience
     layout: text
     content: | # this will include new lines to allow paragraphs
       - <strong> Introduction to Artificial Intelligence:</strong> Methods, Models, Algorithms, Int. Summer University 2018,  Higher School of Economics, 2018. 
 
 
         
-  - title: PUBLICATIONS
+  - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
      - Twelvelabs, “Pegasus-v1 Technical Report,” arXiv preprint, 2024.  
@@ -157,14 +157,14 @@ content:
      - <strong>J. Y. Kim</strong>, S. J. Bu, and S. B. Cho, “Zero-day Malware Detection using Transferred Generative Adversarial  Networks,” Information Sciences, vol. 460, pp. 83-102, 2018. (SCI)(IF: 4.832)  <br>
      - <strong>J. Y. Kim</strong>, S. J. Bu, and S. B. Cho, “Malware Detection using Deep Transferred Generative Adversarial  Networks,” Int. Conf. on Neural Information Processing (ICONIP), pp. 556-564, 2017.  <br>
 
-  - title: SUMMARY OF RESEARCH CONTRIBUTIONS
+  - title: Summary Of Research Contributions
     layout: text
     content: | # this will include new lines to allow paragraphs
       - International Journal Paper <strong> 11</strong>  included SCI(E) <strong> 11.</strong>   <br>
       - International Conference Paper <strong>  14 </strong>
 
 
-  - title: PROJECTS
+  - title: Projects
     layout: text
     content: | # this will include new lines to allow paragraphs
       - 상대방의 감성을 추론, 판단하여 그에 맞추어 대화하고 대응할 수 있는 감성지능 기술연구개발(정보통신기획평가원)&#58;  <strong>Abusive sentence classification, algorithmic bias </strong>
@@ -182,7 +182,7 @@ content:
 
 
 
-  - title: PATENTS
+  - title: Patents
     layout: text
     content: | # this will include new lines to allow paragraphs
       - 국내 출원, 형태소 정보를 추가한 딥러닝 기반 자동 대화생성 방법, 10-2018-0073153, 2018. 
@@ -203,13 +203,13 @@ content:
 
 
 
-  - title: CITATIONS
+  - title: Citations
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Just Google scholar pulls out a list of 784 citations. <strong> (h-index: 12) </strong>
 
 
-  - title: PROFESSIONAL RECOGNITION 
+  - title: Professional Recognition
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Academic Award, Korean Institute of Intelligent Systems (KIIS), 2018. 
@@ -217,7 +217,7 @@ content:
 
 
 
-  - title: PAPER AWARDS 
+  - title: Paper Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Best Student Paper Award, Korea Computer Congress (KCC’17), 2017. 
@@ -235,7 +235,7 @@ content:
       - Best Session Presentation Award, Korea Software Congress (KSC’ 21), 2021 
 
 
-  - title: LECTURES, TALKS and TUTORIALS 
+  - title: Lectures, Talks, and Tutorials
     layout: text
     content: | # this will include new lines to allow paragraphs
       - <strong> Lecture</strong>, Python 전처리, 삼성전자, 2023
