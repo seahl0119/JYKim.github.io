@@ -32,7 +32,8 @@
 {% for item in include.content %}
   <div class="row clearfix layout layout-{{item.layout | default: 'left'}} border-{{item.border | default: 'no'}}">
     <div class="col-xs-12 col-sm-12 col-md-12 col-print-12 details">
-      <h4 id="{{ item.title | slugify }}">{{ item.title }}{% if item.sub_title %} <span style="font-weight: bold;">{{ item.sub_title }}</span>{% endif %}</h4>
+      <h4 id="{{ item.title | slugify }}">{{ item.title }}</h4>
+      {%- if item.sub_title -%}<p><b>{{ item.sub_title }}</b></p>{%- endif -%}
       {%- if item.caption -%}<p>{{ item.caption }}</p>{%- endif -%}
 
       {%- if item.link -%}
@@ -55,3 +56,4 @@
     </div>
   </div>
 {% endfor %}
+
