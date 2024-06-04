@@ -119,9 +119,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
      - Twelvelabs, “Pegasus-v1 Technical Report,” arXiv preprint, 2024.  
-     - ** J. Y. Kim ** &#42;, H. Go &#42;, S. Kwon, and H. G. Kim, “Denoising Task Difficulty-based Curriculum for Training Diffusion Models,” arXiv preprint, 2024.  (&#42; Denotes equal contribution)  <br>
-     - B. Park, H. Go, ** J. Y. Kim **, S. Woo, S. Ham, and C. Kim, “Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts,” arXiv preprint, 2024. <br>
-     - S. Woo &#42;, B. Park &#42;, H. Go, J. Y. Kim, and C. Kim, “HarmonyView: Harmonizing Consistency and Diversity in One-Image-to-3D,” IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. (&#42; Denotes equal contribution)  <br>
+     - <strong> J. Y. Kim <strong> &#42;, H. Go &#42;, S. Kwon, and H. G. Kim, “Denoising Task Difficulty-based Curriculum for Training Diffusion Models,” arXiv preprint, 2024.  (&#42; Denotes equal contribution)  <br>
+     - B. Park, H. Go, <strong> J. Y. Kim <strong> S. Woo, S. Ham, and C. Kim, “Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts,” arXiv preprint, 2024. <br>
+     - S. Woo &#42;, B. Park &#42;, H. Go, <strong> J. Y. Kim <strong>, and C. Kim, “HarmonyView: Harmonizing Consistency and Diversity in One-Image-to-3D,” IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. (&#42; Denotes equal contribution)  <br>
      - B. Park &#42;, S. Woo &#42;, H. Go &#42;, J. Y. Kim &#42;, C. Kim, “Denoising Task Routing for Diffusion Models,” International Conference on Learning Representations (ICLR), 2024. (&#42; Denotes equal  contribution)  <br>
      - S. Kwon &#42;, S. Kim &#42;, S. Lee, J. Y. Kim, S. An, and K. Kim, “Addressing Selection Bias in Computerized Adaptive Testing: A User-Wise Aggregate Influence Function Approach,” International Conference on Information & Knowledge Management (CIKM), 2024. (&#42; Denotes equal  contribution)  <br>
      - Y. Lee &#42;, J. Y. Kim &#42;, H. Go &#42;, M Jeong, S. Oh, and S. Choi, “Multi-Architecture Multi-Expert Diffusion  Models,” AAAI Conference on Artificial Intelligence (AAAI), 2024. (&#42; Denotes equal  contribution)  <br>
