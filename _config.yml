@@ -12,7 +12,7 @@ email: jeremy@twelvelabs.io
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-website: https://github.com/seahl0119
+# website: https://github.com/seahl0119
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -56,7 +56,8 @@ about_content: | # this will include new lines to allow paragraphs
       His current research interests include neural networks, artificial intelligence, and controllable representation learning.
 
       <strong> Research interest <strong>
-      - Deep learning; diffusion model
+      - Deep learning
+      - Diffusion model
       - Representation learning
       - Generative model
       - Video foundation model
