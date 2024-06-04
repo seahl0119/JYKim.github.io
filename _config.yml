@@ -119,15 +119,15 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
      - Twelvelabs, “Pegasus-v1 Technical Report,” arXiv preprint, 2024.  
-     - <strong> J. Y. Kim <strong> &#42;, H. Go &#42;, S. Kwon, and H. G. Kim, “Denoising Task Difficulty-based Curriculum for Training Diffusion Models,” arXiv preprint, 2024.  (&#42; Denotes equal contribution)  <br>
-     - B. Park, H. Go, <strong> J. Y. Kim <strong> S. Woo, S. Ham, and C. Kim, “Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts,” arXiv preprint, 2024. <br>
-     - S. Woo &#42;, B. Park &#42;, H. Go, <strong> J. Y. Kim <strong>, and C. Kim, “HarmonyView: Harmonizing Consistency and Diversity in One-Image-to-3D,” IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. (&#42; Denotes equal contribution)  <br>
-     - B. Park &#42;, S. Woo &#42;, H. Go &#42;, J. Y. Kim &#42;, C. Kim, “Denoising Task Routing for Diffusion Models,” International Conference on Learning Representations (ICLR), 2024. (&#42; Denotes equal  contribution)  <br>
-     - S. Kwon &#42;, S. Kim &#42;, S. Lee, J. Y. Kim, S. An, and K. Kim, “Addressing Selection Bias in Computerized Adaptive Testing: A User-Wise Aggregate Influence Function Approach,” International Conference on Information & Knowledge Management (CIKM), 2024. (&#42; Denotes equal  contribution)  <br>
-     - Y. Lee &#42;, J. Y. Kim &#42;, H. Go &#42;, M Jeong, S. Oh, and S. Choi, “Multi-Architecture Multi-Expert Diffusion  Models,” AAAI Conference on Artificial Intelligence (AAAI), 2024. (&#42; Denotes equal  contribution)  <br>
-     - J. Y. Kim*, S. Kwon*, H. Go*, Y. Lee, and S. Choi, “ScoreCL: Augmentation-Adaptive Contrastive  Learning via Score-Matching Function,” arXiv preprint, 2024.  (&#42; Denotes equal contribution)  <br>
-     - H. Go &#42;, J. Y. Kim &#42;, Y. Lee, S. Lee, S. Oh, H. Moon, and S. Choi, “Addressing Negative Transfer in  Diffusion Models,” Advances in Neural Information Processing Systems (NeurIPS), 2024. (&#42; Denotes equal contribution)  <br>
-     - H. Go &#42;, Y. Lee &#42;, J. Y. Kim &#42;, S. Lee, M. Jeong, H. S. Lee, and S. Choi, “Towards Practical Plug-and-Play  Diffusion Models”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023. (&#42; Denotes equal contribution)  <br>
+     - <strong> J. Y. Kim&#42;</strong>, H. Go&#42;, S. Kwon, and H. G. Kim, “Denoising Task Difficulty-based Curriculum for Training Diffusion Models,” arXiv preprint, 2024.  (&#42; Denotes equal contribution)  <br>
+     - B. Park, H. Go, <strong> J. Y. Kim </strong> S. Woo, S. Ham, and C. Kim, “Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts,” arXiv preprint, 2024. <br>
+     - S. Woo&#42;, B. Park&#42;, H. Go, <strong> J. Y. Kim </strong>, and C. Kim, “HarmonyView: Harmonizing Consistency and Diversity in One-Image-to-3D,” IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. (&#42; Denotes equal contribution)  <br>
+     - B. Park&#42;, S. Woo&#42;, H. Go &#42;, <strong> J. Y. Kim&#42;</strong>, C. Kim, “Denoising Task Routing for Diffusion Models,” International Conference on Learning Representations (ICLR), 2024. (&#42; Denotes equal  contribution)  <br>
+     - S. Kwon&#42;, S. Kim&#42;, S. Lee, <strong>J. Y. Kim</strong>, S. An, and K. Kim, “Addressing Selection Bias in Computerized Adaptive Testing: A User-Wise Aggregate Influence Function Approach,” International Conference on Information & Knowledge Management (CIKM), 2024. (&#42; Denotes equal  contribution)  <br>
+     - Y. Lee&#42;, <strong>J. Y. Kim&#42;</strong>, H. Go&#42;, M Jeong, S. Oh, and S. Choi, “Multi-Architecture Multi-Expert Diffusion  Models,” AAAI Conference on Artificial Intelligence (AAAI), 2024. (&#42; Denotes equal  contribution)  <br>
+     - J. Y. Kim&#42;, S. Kwon&#42;, H. Go&#42;, Y. Lee, and S. Choi, “ScoreCL: Augmentation-Adaptive Contrastive  Learning via Score-Matching Function,” arXiv preprint, 2024.  (&#42; Denotes equal contribution)  <br>
+     - H. Go&#42;, J. Y. Kim&#42;, Y. Lee, S. Lee, S. Oh, H. Moon, and S. Choi, “Addressing Negative Transfer in  Diffusion Models,” Advances in Neural Information Processing Systems (NeurIPS), 2024. (&#42; Denotes equal contribution)  <br>
+     - H. Go&#42;, Y. Lee&#42;, J. Y. Kim&#42;, S. Lee, M. Jeong, H. S. Lee, and S. Choi, “Towards Practical Plug-and-Play  Diffusion Models”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023. (&#42; Denotes equal contribution)  <br>
      - J. Y. Kim and S. B. Cho, “Predicting Residential Energy Consumption by Explainable Deep Learning with  Long-term and Short-term Latent Variables,” Cybernetics and Systems, vol. 54, no. 3, pp. 270-285, 2023.  (SCIE) (IF: 1.879)  <br>
      - J. Park, J. Y. Kim, S. Kwon, and S. W. Lee, “SAICL: Student Modelling with Interaction-level Auxiliary  Contrastive Tasks for Knowledge Tracing and Dropout Prediction”, arXiv preprint arXiv:2210.09012,  2022.  <br>
      - J. Y. Kim and S. B. Cho, “An Information Theoretic Approach to Reducing Algorithmic Bias for Machine  Learning,” Neurocomputing, vol. 500, pp. 26-38, 2022. (SCIE) (IF: 5.719)  <br>
@@ -173,6 +173,38 @@ content:
      - J. Y. Kim, S. J. Bu, and S. B. Cho, “Zero-day Malware Detection using Transferred Generative Adversarial  Networks,” Information Sciences, vol. 460, pp. 83-102, 2018. (SCI)(IF: 4.832)  <br>
      - J. Y. Kim, S. J. Bu, and S. B. Cho, “Malware Detection using Deep Transferred Generative Adversarial  Networks,” Int. Conf. on Neural Information Processing (ICONIP), pp. 556-564, 2017.  <br>
      - J. Y. Kim, S. J. Bu, and S. B. Cho, “A Method of Malware Detection with Deep Transfer-GAN,” Korea Computer Congress (KCC), pp. 1893-1895, 2017. (In Korean)  <br>
+
+  - title: SUMMARY OF RESEARCH CONTRIBUTIONS
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - International Journal Paper 11; included SCI(E) 11.   <br>
+      - International Conference Paper 14 
+
+
+  - title: PROJECTS
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - 상대방의 감성을 추론, 판단하여 그에 맞추어 대화하고 대응할 수 있는 감성지능 기술연구개발(정보통신기획평가원)&#58;  Abusive sentence classification, algorithmic bias 
+      - BSR소음 분류의 잡음 강건성을 위한 GAN 딥러닝 모형(현대엔지비㈜)&#58; signal processing 
+      - Development of Hybrid Deep Learning Method to Detect Software Attacks (AOARD)&#58;  malware detection 
+      - 굴삭기 프런트의 모션 데이터를 이용한 작업모드 분석 및 사용률 추출 기술 개발(두산인프라코어㈜)&#58; signal processing, video classification, multi-modal data 
+      - AI기반 건설기계 건정성 관리시스템(진단 밀 장비관리)개발 2단계(두산인프라코어㈜)&#58; signal processing, anomaly detection, domain adaptation 
+      - 실시간 영상DB 분석기술 개발(한국전자통신연구원)&#58; video anomaly detection 
+      - XAI(eXplainalb AI) 기반 스마트 에너지 플랫폼 기술 개발(한국과학기술원, KEPCO)&#58; energy consumption prediction, explainable AI 
+      - 교통이용내역 정보처리에 관한 연구(㈜에프에이솔루션)&#58; POI recommendation 
+      - 응급상황 전 단계 정보연계 복합지능 스마트 EMS 시스템 개발(정보통신산업진흥원)&#58; speech enhancement, speaker verification 
+      - GAN과 딥러닝 Transformer 기반 잡음제거 및 음성인식 엔진 개발&#58; speech enhancement 
+      - 라이프로그 패턴발견을 위한 그래프 임베딩 기술 연구(한국전자통신연구원)&#58; graph embedding 
+      - 그래프 라이프로그로 분석을 위한 뉴로-심볼릭 결합기술 연구(한국전자통신연구원)&#58;  graph classification, graph embedding 
+
+
+
+
+
+
+
+
+
 
 
 
