@@ -126,7 +126,7 @@ content:
      - S. Kwon&#42;, S. Kim&#42;, S. Lee, <strong>J. Y. Kim</strong>, S. An, and K. Kim, “Addressing Selection Bias in Computerized Adaptive Testing: A User-Wise Aggregate Influence Function Approach,” International Conference on Information & Knowledge Management (CIKM), 2024. (&#42; Denotes equal  contribution)  <br>
      - Y. Lee&#42;, <strong>J. Y. Kim&#42;</strong>, H. Go&#42;, M Jeong, S. Oh, and S. Choi, “Multi-Architecture Multi-Expert Diffusion  Models,” AAAI Conference on Artificial Intelligence (AAAI), 2024. (&#42; Denotes equal  contribution)  <br>
      - <strong>J. Y. Kim&#42;</strong>, S. Kwon&#42;, H. Go&#42;, Y. Lee, and S. Choi, “ScoreCL: Augmentation-Adaptive Contrastive  Learning via Score-Matching Function,” arXiv preprint, 2024.  (&#42; Denotes equal contribution)  <br>
-     - H. Go&#42;, <strong>J. Y. Kim&#42;<s/trong>, Y. Lee, S. Lee, S. Oh, H. Moon, and S. Choi, “Addressing Negative Transfer in  Diffusion Models,” Advances in Neural Information Processing Systems (NeurIPS), 2024. (&#42; Denotes equal contribution)  <br>
+     - H. Go&#42;, <strong>J. Y. Kim&#42;</strong>, Y. Lee, S. Lee, S. Oh, H. Moon, and S. Choi, “Addressing Negative Transfer in  Diffusion Models,” Advances in Neural Information Processing Systems (NeurIPS), 2024. (&#42; Denotes equal contribution)  <br>
      - H. Go&#42;, Y. Lee&#42;, <strong>J. Y. Kim&#42;</strong>, S. Lee, M. Jeong, H. S. Lee, and S. Choi, “Towards Practical Plug-and-Play  Diffusion Models”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023. (&#42; Denotes equal contribution)  <br>
      - <strong>J. Y. Kim</strong> and S. B. Cho, “Predicting Residential Energy Consumption by Explainable Deep Learning with  Long-term and Short-term Latent Variables,” Cybernetics and Systems, vol. 54, no. 3, pp. 270-285, 2023.  (SCIE) (IF: 1.879)  <br>
      - J. Park, <strong>J. Y. Kim</strong>, S. Kwon, and S. W. Lee, “SAICL: Student Modelling with Interaction-level Auxiliary  Contrastive Tasks for Knowledge Tracing and Dropout Prediction”, arXiv preprint arXiv:2210.09012,  2022.  <br>
@@ -184,19 +184,86 @@ content:
   - title: PROJECTS
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - 상대방의 감성을 추론, 판단하여 그에 맞추어 대화하고 대응할 수 있는 감성지능 기술연구개발(정보통신기획평가원)&#58;  Abusive sentence classification, algorithmic bias 
-      - BSR소음 분류의 잡음 강건성을 위한 GAN 딥러닝 모형(현대엔지비㈜)&#58; signal processing 
-      - Development of Hybrid Deep Learning Method to Detect Software Attacks (AOARD)&#58;  malware detection 
-      - 굴삭기 프런트의 모션 데이터를 이용한 작업모드 분석 및 사용률 추출 기술 개발(두산인프라코어㈜)&#58; signal processing, video classification, multi-modal data 
-      - AI기반 건설기계 건정성 관리시스템(진단 밀 장비관리)개발 2단계(두산인프라코어㈜)&#58; signal processing, anomaly detection, domain adaptation 
-      - 실시간 영상DB 분석기술 개발(한국전자통신연구원)&#58; video anomaly detection 
-      - XAI(eXplainalb AI) 기반 스마트 에너지 플랫폼 기술 개발(한국과학기술원, KEPCO)&#58; energy consumption prediction, explainable AI 
-      - 교통이용내역 정보처리에 관한 연구(㈜에프에이솔루션)&#58; POI recommendation 
-      - 응급상황 전 단계 정보연계 복합지능 스마트 EMS 시스템 개발(정보통신산업진흥원)&#58; speech enhancement, speaker verification 
-      - GAN과 딥러닝 Transformer 기반 잡음제거 및 음성인식 엔진 개발&#58; speech enhancement 
-      - 라이프로그 패턴발견을 위한 그래프 임베딩 기술 연구(한국전자통신연구원)&#58; graph embedding 
-      - 그래프 라이프로그로 분석을 위한 뉴로-심볼릭 결합기술 연구(한국전자통신연구원)&#58;  graph classification, graph embedding 
+      - 상대방의 감성을 추론, 판단하여 그에 맞추어 대화하고 대응할 수 있는 감성지능 기술연구개발(정보통신기획평가원)&#58;  <strong>Abusive sentence classification, algorithmic bias </strong>
+      - BSR소음 분류의 잡음 강건성을 위한 GAN 딥러닝 모형(현대엔지비㈜)&#58; <strong>signal processing </strong>
+      - Development of Hybrid Deep Learning Method to Detect Software Attacks (AOARD)&#58; <strong> malware detection </strong>
+      - 굴삭기 프런트의 모션 데이터를 이용한 작업모드 분석 및 사용률 추출 기술 개발(두산인프라코어㈜)&#58; <strong>signal processing, video classification, multi-modal data </strong>
+      - AI기반 건설기계 건정성 관리시스템(진단 밀 장비관리)개발 2단계(두산인프라코어㈜)&#58; <strong>signal processing, anomaly detection, domain adaptation </strong>
+      - 실시간 영상DB 분석기술 개발(한국전자통신연구원)&#58; <strong>video anomaly detection </strong>
+      - XAI(eXplainalb AI) 기반 스마트 에너지 플랫폼 기술 개발(한국과학기술원, KEPCO)&#58; <strong>energy consumption prediction, explainable AI </strong>
+      - 교통이용내역 정보처리에 관한 연구(㈜에프에이솔루션)&#58; <strong>POI recommendation </strong>
+      - 응급상황 전 단계 정보연계 복합지능 스마트 EMS 시스템 개발(정보통신산업진흥원)&#58; <strong>speech enhancement, speaker verification </strong>
+      - GAN과 딥러닝 Transformer 기반 잡음제거 및 음성인식 엔진 개발&#58; <strong>speech enhancement </strong>
+      - 라이프로그 패턴발견을 위한 그래프 임베딩 기술 연구(한국전자통신연구원)&#58; <strong>graph embedding </strong>
+      - 그래프 라이프로그로 분석을 위한 뉴로-심볼릭 결합기술 연구(한국전자통신연구원)&#58;  <strong>graph classification, graph embedding </strong>
 
+
+
+  - title: PATENTS
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - 국내 출원, 형태소 정보를 추가한 딥러닝 기반 자동 대화생성 방법, 10-2018-0073153, 2018. 
+      - 국내 출원, 편향성이 감소된 분류장치 및 방법, 10-2019-0005334, 2019. 
+      - 해외 출원, 편향성이 감소된 분류장치 및 방법, PCT/KR2019/002698, 2019. 
+      - 국내 출원, 기계학습 기반의 화자 분리 방법 및 그를 위한 장치, 10-2019-0141938, 2019. 
+      - 국내 출원, 기계학습 기반의 잡음 제거 방법 및 그를 위한 장치, 10-2020-0084272, 2020. 
+      - 국내 등록, 편향성이 감소된 분류장치 및 방법, 10-2198461, 2020. 
+      - 국내 등록, 기계학습 기반의 화자 분리 방법 및 그를 위한 장치, 10-2313387, 2021. 
+
+
+  - title: Professional Service 
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Conference reviewer&#58;  NeurIPS, ICML, CVPR, IEEE WCCI 
+      - Journal reviewer&#58;  IEEE Trans. on Neural Network and Learning Systems, IEEE Trans. on Cybernetics, Computing Survey, IEEE Trans. on Emerging Topics in Computational Intelligence, IEEE Access, Computer &#38;  Security, Knowledge-Based Systems 
+
+
+
+
+  - title: CITATIONS
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Just Google scholar pulls out a list of 784 citations. <strong> (h-index: 12) </strong>
+
+
+  - title: PROFESSIONAL RECOGNITION 
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Academic Award, Korean Institute of Intelligent Systems (KIIS), 2018. 
+      - Global Ph.D. Fellowship, National Research Foundation of Korea (NRF), (March 2019. – February 2021.) Naver Ph.D. Fellowship, 2022 
+
+
+
+  - title: PAPER AWARDS 
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Best Student Paper Award, Korea Computer Congress (KCC’17), 2017. 
+      - Best Paper Award, BSR improvements research contest Hyundai motors, 2017. 
+      - Paper Award, Int. Military Science and Technology Fair, 2018. 
+      - Best Session Presentation Award, Korea Computer Congress (KCC’18), 2018. 
+      - Best Paper Award, Korea Software Congress (KSC’ 18), 2018. 
+      - Academic Paper Award, Yonsei University, 2019. 
+      - Best Paper Award, Korean Institute of Intelligent Systems Fall Conf, 2019. 
+      - Academic Paper Award, Yonsei University, 2019. 
+      - Best Paper Award, Korea Software Congress (KSC’ 19), 2019. 
+      - Best Session Presentation Award, Korea Computer Congress (KCC’19), 2019. 
+      - Best Paper Award, Korea Computer Congress (KCC’20), 2020. 
+      - Best Session Presentation Award, Korea Software Congress (KSC’ 21), 2021 
+      - Best Session Presentation Award, Korea Software Congress (KSC’ 21), 2021 
+
+
+  - title: LECTURES, TALKS and TUTORIALS 
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - <strong> Lecture</strong>, Python 전처리, 삼성전자, 2023
+      - <strong> Lecture</strong>, 데이터 사이언스 논문 세미나: 생성 모델(Generative model)의 이해와 VAE, GAN을 이용한 선택적 생성, 패스트캠퍼스, 2019 
+      - <strong> Invited Speaker (presentation material)</strong>, Int. Conf. on Neural Information Processing, 2019 
+      - <strong> Invited Speaker (presentation material)</strong>, IEEE Int. Conf. on Big Data and Smart Computing, 2020 
+      - <strong> Lecture</strong>, Data Representation, CSI7103-01 (인공지능특강), Yonsei University, 2020. 
+      - <strong> Lecture</strong>, 인공지능과 딥러닝 교육과정, 산업기술진흥협회, 2019. 
+      - <strong> Lecture</strong>, 2019년 삼성전자 데이터 역량강화 공통트랙: 데이터 마이닝, 삼성전자, 2019. Lecture, 인공지능과 딥러닝 교육과정, 산업기술진흥협회, 2020. 
+      - <strong> Lecture</strong>, 2019년 삼성전자 데이터 역량강화 공통트랙: 데이터 마이닝, 삼성전자, 2020. 
+      - <strong> Invited Speaker (presentation material)</strong>, Int. Conf. on Biologically Inspired Techniques in Many Criteria Decision Making, 2021
 
 
 
