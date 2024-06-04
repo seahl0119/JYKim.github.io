@@ -52,7 +52,7 @@ googlescholar_username: 7VupJX4AAAAJ
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-J.-Y. Kim received a BS degree in mathematics and computer science from Yonsei University, Seoul, South Korea, in 2018. He is currently pursuing a Ph.D. degree at the Department of Computer Science, Yonsei University. His current research interests include neural networks, artificial intelligence, and controllable representation learning.
+      J.-Y. Kim received a BS degree in mathematics and computer science from Yonsei University, Seoul, South Korea, in 2018. He is currently pursuing a Ph.D. degree at the Department of Computer Science, Yonsei University. His current research interests include neural networks, artificial intelligence, and controllable representation learning.
 # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
 #   - Lists
 #   - Tables
