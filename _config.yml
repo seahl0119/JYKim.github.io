@@ -54,6 +54,12 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
       J.-Y. Kim received a BS degree in mathematics and computer science from Yonsei University, Seoul, South Korea, in 2018. He is currently pursuing a Ph.D. degree at the Department of Computer Science, Yonsei University. 
       His current research interests include neural networks, artificial intelligence, and controllable representation learning.
+
+      <strong> Research interest <strong>
+      - Deep learning; diffusion model
+      - representation learning
+      - generative model
+      - video foundation model
       
 # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
 #   - Lists
@@ -62,14 +68,6 @@ about_content: | # this will include new lines to allow paragraphs
 #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-      
-  - title: Research Interest 
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-        Deep learning; diffusion model; representation learning; generative model; video foundation model
-
-
-
           
   - title: ACADEMIC BACNKGROUND 
     layout: list
@@ -84,7 +82,7 @@ content:
         # description: | # this will include new lines to allow paragraphs
         #   Description of role
         
-        - title: Riiid Inc.
+      - title: Riiid Inc.
         sub_title: Senior AI Research Scientist
         caption: 2023.02- 2023.10
         # link: https://www.twelvelabs.io/
