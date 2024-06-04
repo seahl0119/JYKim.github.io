@@ -94,16 +94,16 @@ content:
                 
       - title: Yonsei University, Korea
         sub_title: M. S. & Ph. D. Combined course student in Computer Science
-        caption: 2018 - (GPA \U+003A  4.16 / 4.30) 
+        caption: 2018 - (GPA &#58; 4.16 / 4.30) 
         # link: https://www.twelvelabs.io/
                 
       - title: Yonsei University, Korea
         sub_title: B.S. in Mathematics
-        caption: 2014.03 - 2018.02 (GPA \U+003A 3.59 / 4.30) 
+        caption: 2014.03 - 2018.02 (GPA &#58; 3.59 / 4.30) 
                 
       - title: Yonsei University, Korea
         sub_title: B.S. in Computer Science
-        caption: 2014.03 - 2018.02 (GPA \U+003A 3.59 / 4.30) 
+        caption: 2014.03 - 2018.02 (GPA &#58; 3.59 / 4.30) 
 
 
         
@@ -119,15 +119,15 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
      - Twelvelabs, “Pegasus-v1 Technical Report,” arXiv preprint, 2024.  
-     - J. Y. Kim &#42;, H. Go &#42;, S. Kwon, and H. G. Kim, “Denoising Task Difficulty-based Curriculum for Training Diffusion Models,” arXiv preprint, 2024.  (*Denotes equal contribution)  <br>
-     - B. Park, H. Go, J. Y. Kim, S. Woo, S. Ham, and C. Kim, “Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts,” arXiv preprint, 2024. <br>
-     - S. Woo*, B. Park*, H. Go, J. Y. Kim, and C. Kim, “HarmonyView: Harmonizing Consistency and Diversity in One-Image-to-3D,” IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. (*Denotes equal contribution)  <br>
-     - B. Park*, S. Woo*, H. Go*, J. Y. Kim*, C. Kim, “Denoising Task Routing for Diffusion Models,” International Conference on Learning Representations (ICLR), 2024. (*Denotes equal  contribution)  <br>
-     - S. Kwon*, S. Kim*, S. Lee, J. Y. Kim, S. An, and K. Kim, “Addressing Selection Bias in Computerized Adaptive Testing: A User-Wise Aggregate Influence Function Approach,” International Conference on Information & Knowledge Management (CIKM), 2024. (*Denotes equal  contribution)  <br>
-     - Y. Lee*, J. Y. Kim*, H. Go*, M Jeong, S. Oh, and S. Choi, “Multi-Architecture Multi-Expert Diffusion  Models,” AAAI Conference on Artificial Intelligence (AAAI), 2024. (*Denotes equal  contribution)  <br>
-     - J. Y. Kim*, S. Kwon*, H. Go*, Y. Lee, and S. Choi, “ScoreCL: Augmentation-Adaptive Contrastive  Learning via Score-Matching Function,” arXiv preprint, 2024.  (*Denotes equal contribution)  <br>
-     - H. Go*, J. Y. Kim*, Y. Lee, S. Lee, S. Oh, H. Moon, and S. Choi, “Addressing Negative Transfer in  Diffusion Models,” Advances in Neural Information Processing Systems (NeurIPS), 2024. (*Denotes equal contribution)  <br>
-     - H. Go*, Y. Lee*, J. Y. Kim*, S. Lee, M. Jeong, H. S. Lee, and S. Choi, “Towards Practical Plug-and-Play  Diffusion Models”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023. (*Denotes equal contribution)  <br>
+     - ** J. Y. Kim ** &#42;, H. Go &#42;, S. Kwon, and H. G. Kim, “Denoising Task Difficulty-based Curriculum for Training Diffusion Models,” arXiv preprint, 2024.  (&#42; Denotes equal contribution)  <br>
+     - B. Park, H. Go, ** J. Y. Kim **, S. Woo, S. Ham, and C. Kim, “Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts,” arXiv preprint, 2024. <br>
+     - S. Woo &#42;, B. Park &#42;, H. Go, J. Y. Kim, and C. Kim, “HarmonyView: Harmonizing Consistency and Diversity in One-Image-to-3D,” IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. (&#42; Denotes equal contribution)  <br>
+     - B. Park &#42;, S. Woo &#42;, H. Go &#42;, J. Y. Kim &#42;, C. Kim, “Denoising Task Routing for Diffusion Models,” International Conference on Learning Representations (ICLR), 2024. (&#42; Denotes equal  contribution)  <br>
+     - S. Kwon &#42;, S. Kim &#42;, S. Lee, J. Y. Kim, S. An, and K. Kim, “Addressing Selection Bias in Computerized Adaptive Testing: A User-Wise Aggregate Influence Function Approach,” International Conference on Information & Knowledge Management (CIKM), 2024. (&#42; Denotes equal  contribution)  <br>
+     - Y. Lee &#42;, J. Y. Kim &#42;, H. Go &#42;, M Jeong, S. Oh, and S. Choi, “Multi-Architecture Multi-Expert Diffusion  Models,” AAAI Conference on Artificial Intelligence (AAAI), 2024. (&#42; Denotes equal  contribution)  <br>
+     - J. Y. Kim*, S. Kwon*, H. Go*, Y. Lee, and S. Choi, “ScoreCL: Augmentation-Adaptive Contrastive  Learning via Score-Matching Function,” arXiv preprint, 2024.  (&#42; Denotes equal contribution)  <br>
+     - H. Go &#42;, J. Y. Kim &#42;, Y. Lee, S. Lee, S. Oh, H. Moon, and S. Choi, “Addressing Negative Transfer in  Diffusion Models,” Advances in Neural Information Processing Systems (NeurIPS), 2024. (&#42; Denotes equal contribution)  <br>
+     - H. Go &#42;, Y. Lee &#42;, J. Y. Kim &#42;, S. Lee, M. Jeong, H. S. Lee, and S. Choi, “Towards Practical Plug-and-Play  Diffusion Models”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023. (&#42; Denotes equal contribution)  <br>
      - J. Y. Kim and S. B. Cho, “Predicting Residential Energy Consumption by Explainable Deep Learning with  Long-term and Short-term Latent Variables,” Cybernetics and Systems, vol. 54, no. 3, pp. 270-285, 2023.  (SCIE) (IF: 1.879)  <br>
      - J. Park, J. Y. Kim, S. Kwon, and S. W. Lee, “SAICL: Student Modelling with Interaction-level Auxiliary  Contrastive Tasks for Knowledge Tracing and Dropout Prediction”, arXiv preprint arXiv:2210.09012,  2022.  <br>
      - J. Y. Kim and S. B. Cho, “An Information Theoretic Approach to Reducing Algorithmic Bias for Machine  Learning,” Neurocomputing, vol. 500, pp. 26-38, 2022. (SCIE) (IF: 5.719)  <br>
