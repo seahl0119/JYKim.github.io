@@ -114,7 +114,7 @@ content:
   - title: ACADEMIC EXPERIENCE 
     layout: text
     content: | # this will include new lines to allow paragraphs
-      <strong> Introduction to Artificial Intelligence:</strong> Methods, Models, Algorithms, Int. Summer University 2018,  Higher School of Economics, 2018. 
+      - <strong> Introduction to Artificial Intelligence:</strong> Methods, Models, Algorithms, Int. Summer University 2018,  Higher School of Economics, 2018. 
 
 
         
