@@ -83,7 +83,11 @@ content:
         #   Short description of the company (optional)
         # description: | # this will include new lines to allow paragraphs
         #   Description of role
-
+        
+        title: Riiid Inc.
+        sub_title: Senior AI Research Scientist
+        caption: 2023.02- 2023.10
+        # link: https://www.twelvelabs.io/
 
           
   - title: ACADEMIC EXPERIENCE 
